@@ -1,0 +1,15 @@
+/* .body{
+     background-image: url(../../../assets/240_F_287904422_L4uYvJga6lnZ6i5R3Hpz7b5jXBGruRD5.jpg);
+     height: 100%;
+     width: 100%;
+     background-repeat: no-repeat;
+} */
+.slide {
+     margin-bottom: 50px;
+}
+
+.label-slide {
+     position: absolute;
+     top: 18vh ;
+     left: 8vw;
+}
